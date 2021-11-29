@@ -24,12 +24,12 @@ public class Main {
 
         String first = "Первый метод выполнился за " + (double) ((System.currentTimeMillis() - a));
         System.out.println(first);
-
         //------------------------первый метод-----------------------
 
         //------------------------второй метод-----------------------
 
         long b = System.currentTimeMillis();
+
 
         float[] a1 = new float[h];
         float[] a2 = new float[h];
